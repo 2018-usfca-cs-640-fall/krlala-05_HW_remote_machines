@@ -1,3 +1,5 @@
+
+#!bin/bash
 #using echo to print a line about the script's general purpose
 echo -e "\n\nThis is a log file-Output from preliminary quality control checks on selected fasta files"
 #using the date command to give the current(When user runs this) date and time. %Y specifies year, 
